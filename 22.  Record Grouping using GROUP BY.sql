@@ -21,14 +21,14 @@ ORDER BY CountofAddresses DESC
 ;
 
 
-Easy to Remember
+-- Easy to Remember
 
-"So Few Workers Go Home On time"
+-- "So Few Workers Go Home On time"
 
 
-So		: SELECT
-Few		: FROM
-Workers	: WHERE
-Go		: GROUP BY
-Home		: HAVING
-On time	: ORDER BY
+-- So		: SELECT
+-- Few		: FROM
+-- Workers	: WHERE
+-- Go		: GROUP BY
+-- Home		: HAVING
+-- On time	: ORDER BY
